@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Petix<br>🤝 I’m looking for help with Focusly<br>🌱 I’m currently learning C#<br>⚡ Fun fact I'm 16
+🔭 I’m currently working on Clyntor<br>🤝 I’m looking for help with Focusly<br>🌱 I’m currently learning Typescript and little bit of C#<br>⚡ Fun fact I'm 16
 
 
 ## 🌐 Socials:
